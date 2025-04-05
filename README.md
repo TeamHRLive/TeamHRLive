@@ -11,7 +11,7 @@
 
 - 👑 CEO of [**Songoda**](https://songoda.com) – powering premium Minecraft plugin experiences.
 - 🔧 Full-stack developer & plugin wizard for Minecraft servers.
-- 🧩 Founder of **VortexDevelopment** – tools that power player experiences.
+- 🧩 Co-Founder of **VortexDevelopment** – tools that power player experiences.
 - 💬 I mentor, support devs, and contribute to gaming communities worldwide.
 - 🎥 Creator & streamer [@TeamHRLive on Facebook Gaming](https://www.facebook.com/gaming/TeamHRLive)
 
