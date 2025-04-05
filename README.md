@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Harry</h1>
-<h3 align="center">🚀 CEO @ <a href="https://songoda.com">Songoda</a> | 🎮 Minecraft Plugin Developer | 💡 Innovator | 🎥 Content Creator</h3>
+<h3 align="center">🚀 CEO @ <a href="https://songoda.com">Songoda</a> | 🎮 Minecraft Plugin Developer | 💡 Innovator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CEO+of+Songoda+%7C+Minecraft+Plugin+Pro;Full-Stack+Developer+%7C+Coding+Since+Day+One;Welcome+to+my+Dev+World!+%F0%9F%9A%80" />
@@ -13,7 +13,6 @@
 - 🔧 Full-stack developer & plugin wizard for Minecraft servers.
 - 🧩 Co-Founder of **VortexDevelopment**.
 - 💬 I mentor, support devs, and contribute to gaming communities worldwide.
-- 🎥 Creator & streamer [@TeamHRLive on Facebook Gaming](https://www.facebook.com/gaming/TeamHRLive)
 
 ---
 
@@ -56,13 +55,6 @@
 
 ## 🌟 Featured Work
 - 🌍 [**Songoda Plugins**](https://songoda.com) – Supporting thousands of servers worldwide.
-
----
-
-## 🌐 Let's Connect
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@TeamHRLive)
-[![Facebook Gaming](https://img.shields.io/badge/Facebook_Gaming-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gaming/TeamHRLive)
 
 ---
 
