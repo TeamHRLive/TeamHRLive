@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm TeamHRLive</h1>
+<h1 align="center">👋 Hey, I'm Harry</h1>
 <h3 align="center">🚀 CEO @ <a href="https://songoda.com">Songoda</a> | 🎮 Minecraft Plugin Developer | 💡 Innovator | 🎥 Content Creator</h3>
 
 <p align="center">
