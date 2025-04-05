@@ -55,7 +55,7 @@
 ---
 
 ## 🌟 Featured Work
-- 🌍 [**Songoda Plugins**](https://songoda.com/marketplace) – Supporting thousands of servers worldwide.
+- 🌍 [**Songoda Plugins**](https://songoda.com) – Supporting thousands of servers worldwide.
 
 ---
 
