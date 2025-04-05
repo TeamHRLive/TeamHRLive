@@ -2,7 +2,7 @@
 <h3 align="center">🚀 CEO @ <a href="https://songoda.com">Songoda</a> | 🎮 Minecraft Plugin Developer | 💡 Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CEO+of+Songoda+%7C+Minecraft+Plugin+Pro;Full-Stack+Developer+%7C+Coding+Since+Day+One;Welcome+to+my+Dev+World!+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CEO+of+Songoda;Welcome+to+my+Dev+World!+%F0%9F%9A%80" />
 </p>
 
 ---
