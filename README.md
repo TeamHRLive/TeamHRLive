@@ -71,7 +71,7 @@
 If you enjoy my work or wanna support what I do:
 
 <a href="https://ko-fi.com/teamhr" target="_blank">
-  <img src="https://storage.ko-fi.com/cdn/kofi_button_red.png" height="45" alt="Support me on Ko-fi" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhsY2dncTBtZ29kemtyeWtucHcxcTNwMm1uYXo3emoxZW56NTAzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9mNKXFygkCeOWekWew/giphy.gif" height="45" alt="Support me on Ko-fi" />
 </a>
 
 ---
