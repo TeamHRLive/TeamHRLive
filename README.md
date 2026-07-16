@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 👑 CEO of [**Songoda**](https://songoda.com) – powering premium Minecraft plugin experiences.
+- 👑 CEO of [**Songoda-Reborn**](https://www.songoda-reborn.com) – powering premium Minecraft plugin experiences.
 - 🔧 Full-stack developer & plugin wizard for Minecraft servers.
 - 🧩 Co-Founder of **VortexDevelopment**.
 - 💬 I mentor, support devs, and contribute to gaming communities worldwide.
@@ -54,7 +54,7 @@
 ---
 
 ## 🌟 Featured Work
-- 🌍 [**Songoda Plugins**](https://songoda.com) – Supporting thousands of servers worldwide.
+- 🌍 [**Songoda Plugins**](https://www.songoda-reborn.com) – Supporting thousands of servers worldwide.
 
 ---
 
